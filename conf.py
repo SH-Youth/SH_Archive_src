@@ -59,7 +59,6 @@ html_theme = 'sphinx_book_theme'
 # Theme options for sphinx_book_theme
 html_theme_options = {
     "show_navbar_depth": 1,
-    "home_page_in_toc": True,
     "repository_url": "https://github.com/SH-Youth/SH_Archive_src",
     "use_repository_button": True,
     "use_edit_page_button": True,
