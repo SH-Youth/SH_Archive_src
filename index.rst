@@ -1,5 +1,5 @@
 ################################
-欢迎来到最変態no文章存档
+Welcome to 最変態no文章存档
 ################################
 
 .. toctree::
@@ -8,12 +8,54 @@
     :hidden:
 
     Criticism_Space/index
+    Daily/index
     Sphinx_Notes/index
     Stone/index
 
 ================================
 TimeLine
 ================================
+
+--------------------------------
+2025年08月
+--------------------------------
+
+.. raw:: html
+
+    <a href="Daily/OnePlusRoot/" class="article-card">
+      <div class="article-card-container">
+        <div class="article-cover">
+          <img src="/_images/DA_1-cover.jpg" alt="封面">
+        </div>
+        <div class="article-content">
+          <h2 class="article-title">记录初次搞机：OnePlus 10 Pro root 之路</h2>
+          <p class="article-preview">
+            近来捡回了部二手的一加 10 Pro，打算尝试 root。之前虽也早就像试试的，但奈何一直用了五六年的旧手机很难解锁，我也不想承担相应的损失唯一一部手机的风险，故一直搁置着...
+          </p>
+          <div class="article-meta">
+            <div class="article-meta-left">
+              <span>
+                <img src="/_static/icon/archive.svg" alt="分类"/>
+                日记残念
+              </span>
+              <span>
+                <img src="/_static/icon/author.svg" alt="作者"/>
+                SH_Youth
+              </span>
+              <span>
+                <img src="/_static/icon/time.svg" alt="时间"/>
+                2025.08.08
+              </span>
+              <span>
+            </div>
+            <span>
+              <img src="/_static/icon/add.svg" alt="创建"/>
+              创建
+            </span>
+          </div>
+        </div>
+      </div>
+    </a>
 
 --------------------------------
 2025年07月
