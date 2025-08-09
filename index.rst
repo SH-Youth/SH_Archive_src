@@ -22,6 +22,41 @@ TimeLine
 
 .. raw:: html
 
+    <a href="Daily/TermuxPlay/" class="article-card">
+      <div class="article-card-container">
+        <div class="article-cover">
+          <img src="/_images/DA_2-cover.png" alt="封面">
+        </div>
+        <div class="article-content">
+          <h2 class="article-title">记录 Termux 折腾过程</h2>
+          <p class="article-preview">
+            上回说到我捡回了一部二手的一加 10 Pro，为何偏偏捡了这个型号，其实还有一层原因，即它有 USB3.0 的接口，这意味着它可以通过这个 Tpye-C 输出视频。使用 Termux 搭建一个桌面环境...
+          </p>
+          <div class="article-meta">
+            <div class="article-meta-left">
+              <span>
+                <img src="/_static/icon/archive.svg" alt="分类"/>
+                日记残念
+              </span>
+              <span>
+                <img src="/_static/icon/author.svg" alt="作者"/>
+                SH_Youth
+              </span>
+              <span>
+                <img src="/_static/icon/time.svg" alt="时间"/>
+                2025.08.09
+              </span>
+              <span>
+            </div>
+            <span>
+              <img src="/_static/icon/add.svg" alt="创建"/>
+              创建
+            </span>
+          </div>
+        </div>
+      </div>
+    </a>
+
     <a href="Daily/OnePlusRoot/" class="article-card">
       <div class="article-card-container">
         <div class="article-cover">

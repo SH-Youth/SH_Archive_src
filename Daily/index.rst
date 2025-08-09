@@ -9,3 +9,4 @@
    :caption: 目录：
 
    OnePlusRoot/index.rst
+   TermuxPlay/index.rst
