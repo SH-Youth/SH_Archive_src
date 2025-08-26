@@ -4,6 +4,9 @@
 Sphinx 速查笔记
 #############################
 
+.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-sphinxnote/
+   :alt: 访问量统计
+
 .. admonition:: 编者按
 
     这大概是我边学边整理的，本来基本上是来自Sphinx文档中 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_ 

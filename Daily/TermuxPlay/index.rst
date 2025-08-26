@@ -20,6 +20,10 @@
     <span>2025.08.09</span>
   </div>
 
+.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-daily-2/
+   :alt: 访问量统计
+   :align: right
+
 |
 
 上回说到我捡回了一部二手的一加 10 Pro，为何偏偏捡了这个型号，其实还有一层原因，即它有 USB3.0 的接口，这意味着它可以通过这个 Tpye-C 输出视频。使用 Termux 搭建一个桌面环境，接上显示器键鼠后就一定程度上可以当作电脑来用🥰。

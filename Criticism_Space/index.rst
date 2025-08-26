@@ -2,6 +2,9 @@
 批评空间
 ##############################
 
+.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-criticism/
+   :alt: 访问量统计
+
 假借 エロゲー批評空間 的名字，实际上和它没什么关系，只是觉得名字好听。
 
 .. toctree::

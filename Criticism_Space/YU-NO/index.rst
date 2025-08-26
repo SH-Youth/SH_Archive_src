@@ -37,6 +37,10 @@
       </a>
     </div>
 
+.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-criticism-2/
+   :alt: 访问量统计
+   :align: right
+
 .. setclass:: normal-paragraph
 
   久闻 YUNO 的大名，满怀期待的玩完了，却又有点失望，为什么呢？

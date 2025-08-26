@@ -2,6 +2,9 @@
 Welcome to 最変態no文章存档
 ################################
 
+.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-index/
+   :alt: 访问量统计
+
 .. toctree::
     :maxdepth: 2
     :caption: 目录：
