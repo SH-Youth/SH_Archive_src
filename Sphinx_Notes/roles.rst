@@ -2,6 +2,9 @@
 Roles
 ###########################
 
+.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-sphinxnote-roles/
+   :alt: 访问量统计
+
 A role or "custom interpreted text role" is an inline
 piece of explicit markup. It signifies that the enclosed text should be
 interpreted in a specific way.  Sphinx uses this to provide semantic markup and

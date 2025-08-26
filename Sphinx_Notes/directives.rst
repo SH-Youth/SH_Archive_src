@@ -4,6 +4,9 @@
 Directives
 ###########################
 
+.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-sphinxnote-directives/
+   :alt: 访问量统计
+
 A directive is a generic block of explicit markup.
 Along with roles, it is one of the extension mechanisms of reStructuredText,
 and Sphinx makes heavy use of it.

@@ -2,6 +2,9 @@
 动漫视频常见的瑕疵/缺陷介绍
 ###########################
 
+.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-stone-1/
+   :alt: 访问量统计
+
 .. admonition:: 编者按
 
     转自 `(04.01.2016) [VCB-Studio 科普教程 6] 动漫视频常见的瑕疵/缺陷介绍 <https://vcb-s.com/archives/4738>`_
