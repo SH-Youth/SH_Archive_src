@@ -4,7 +4,7 @@
 Sphinx 速查笔记
 #############################
 
-.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-sphinxnote/
+.. image:: https://moe-counter.saihentai.qzz.io/blog-sphinxnote/
    :alt: 访问量统计
 
 .. admonition:: 编者按

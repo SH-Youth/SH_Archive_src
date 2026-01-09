@@ -20,7 +20,7 @@
     <span>2025.08.08</span>
   </div>
 
-.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-daily-1/
+.. image:: https://moe-counter.saihentai.qzz.io/blog-daily-1/
    :alt: 访问量统计
    :align: right
    

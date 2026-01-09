@@ -2,7 +2,7 @@
 Roles
 ###########################
 
-.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-sphinxnote-roles/
+.. image:: https://moe-counter.saihentai.qzz.io/blog-sphinxnote-roles/
    :alt: 访问量统计
 
 A role or "custom interpreted text role" is an inline

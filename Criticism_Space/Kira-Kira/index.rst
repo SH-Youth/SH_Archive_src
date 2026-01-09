@@ -36,7 +36,7 @@ KIRA☆KIRA
       </a>
     </div>
 
-.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-criticism-1/
+.. image:: https://moe-counter.saihentai.qzz.io/blog-criticism-1/
    :alt: 访问量统计
    :align: right
 

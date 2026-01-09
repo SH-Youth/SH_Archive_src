@@ -2,7 +2,7 @@
 日记残念
 #########################
 
-.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-daily/
+.. image:: https://moe-counter.saihentai.qzz.io/blog-daily/
    :alt: 访问量统计
 
 记录生活。
