@@ -37,7 +37,7 @@
       </a>
     </div>
 
-.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-criticism-2/
+.. image:: https://moe-counter.saihentai.qzz.io/blog-criticism-2/
    :alt: 访问量统计
    :align: right
 

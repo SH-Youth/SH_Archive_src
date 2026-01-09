@@ -4,7 +4,7 @@
 Directives
 ###########################
 
-.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-sphinxnote-directives/
+.. image:: https://moe-counter.saihentai.qzz.io/blog-sphinxnote-directives/
    :alt: 访问量统计
 
 A directive is a generic block of explicit markup.

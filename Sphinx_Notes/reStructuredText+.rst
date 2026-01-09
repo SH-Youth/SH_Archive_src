@@ -4,7 +4,7 @@
 reStructuredText+
 ############################
 
-.. image:: https://moe-counter.sai-hentai.dpdns.org/blog-sphinxnote-rst/
+.. image:: https://moe-counter.saihentai.qzz.io/blog-sphinxnote-rst/
    :alt: 访问量统计
 
 .. note::
