@@ -26,7 +26,7 @@ TimeLine
 
 .. raw:: html
 
-    <a href="Tech/Hledger/" class="article-card">
+    <a href="Tech/hledger/" class="article-card">
       <div class="article-card-container">
         <div class="article-cover">
           <img src="/_images/TE_1-cover.png" alt="封面" style="object-position: right center;">
