@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = '最変態no文章存档'
-copyright = '2025, SH_Youth'
+copyright = '2026, SH_Youth'
 author = 'SH_Youth'
 
 # The full version, including alpha/beta/rc tags

@@ -12,6 +12,7 @@ Welcome to 最変態no文章存档
 
     Criticism_Space/index
     Daily/index
+    Tech/index
     Sphinx_Notes/index
     Stone/index
 
@@ -20,7 +21,46 @@ TimeLine
 ================================
 
 -------------------------------
-2025年10月
+2025 年 06 月
+-------------------------------
+
+.. raw:: html
+
+    <a href="Tech/Hledger/" class="article-card">
+      <div class="article-card-container">
+        <div class="article-cover">
+          <img src="/_images/TE_1-cover.png" alt="封面" style="object-position: right center;">
+        </div>
+        <div class="article-content">
+          <h2 class="article-title">记录我开始使用 hledger 记账</h2>
+          <p class="article-preview">在过去，我主要使用 notion 来记账，就是在 notion 中建一个表格，把每次收支记录成一行，就是所谓的流水账了。还煞有介事地整了不同的表格视图，又是周视图啊又是收支排名什么的...</p>
+          <div class="article-meta">
+            <div class="article-meta-left">
+              <span>
+                <img src="/_static/icon/archive.svg" alt="分类"/>
+                科技技术
+              </span>
+              <span>
+                <img src="/_static/icon/author.svg" alt="作者"/>
+                SH_Youth
+              </span>
+              <span>
+                <img src="/_static/icon/time.svg" alt="时间"/>
+                2026.06.19
+              </span>
+              <span>
+            </div>
+            <span>
+              <img src="/_static/icon/add.svg" alt="创建"/>
+              创建
+            </span>
+          </div>
+        </div>
+      </div>
+    </a>
+
+-------------------------------
+2025 年 10 月
 -------------------------------
 
 .. raw:: html
@@ -62,7 +102,7 @@ TimeLine
 
 
 --------------------------------
-2025年08月
+2025 年 08 月
 --------------------------------
 
 .. raw:: html
@@ -138,7 +178,7 @@ TimeLine
     </a>
 
 --------------------------------
-2025年07月
+2025 年 07 月
 --------------------------------
 
 .. raw:: html
@@ -182,7 +222,7 @@ TimeLine
     </a>
 
 --------------------------------
-2025年06月
+2025 年 06 月
 --------------------------------
 
 .. raw:: html
