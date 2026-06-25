@@ -11,5 +11,6 @@
     :maxdepth: 1
     :caption: 目录：
 
+    One-Sentence/index
     Kira-Kira/index
     YU-NO/index
