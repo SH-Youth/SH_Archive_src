@@ -17,7 +17,7 @@
     <img src="/_static/icon/author.svg" style="height:1.5em; vertical-align:middle; margin-left:1em" alt="作者" title="作者"/>
     <span>SH_Youth</span>
     <img src="/_static/icon/time.svg" style="height:1.5em; vertical-align:middle; margin-left:1em;" alt="时间" title="时间"/>
-    <span>2026.06.19</span>
+    <span>2026.07.08</span>
   </div>
 
 .. image:: https://moe-counter.saihentai.qzz.io/blog-daily-3/
@@ -176,11 +176,15 @@ YYYY-MM-DD [txn|Flag] [[Payee] Narration] [tag]
     Liabilities:CreditCard:CapitalOne         -37.45 USD
     Expenses:Restaurant
 
-**Payee & Narration  收款人和说明**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Payee & Narration  收款人和说明
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 紧接着的就是 ``Payee`` 和 ``Narration``，分别表示交易的付款方和交易的说明。 ``Payee`` 是可选的， ``Narration`` 也是可选的。你可以向上面的例子一样把两个字符串都写上，也可以只写一个，只写一个的话默认是 ``Narration``。毕竟写收款方挺奇怪且麻烦的。如果你只想写 ``Payee`` 而不写 ``Narration``，那得在 ``Payee`` 后面加上一个空字符串 ``""`` ，虽然大概率不会这样写的。
 
-**Account Amount 过账**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Account Amount 过账
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 第一行指令后面跟着的几行过账（posting）也是差不多的，比较方便的一点是可以使用 `` ( ) * / - + `` 的算术表达式:
 
@@ -194,7 +198,9 @@ YYYY-MM-DD [txn|Flag] [[Payee] Narration] [tag]
 
 另外可以看到，也是一样的可以省一个 amount 不写的，Beancount 会自动计算出剩余的金额来平衡交易。
 
-**Costs & Prices  成本和现价**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Costs & Prices  成本和现价
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 每一条过账的 ``Amount`` 后面可以跟着一个可选的 ``Cost`` 或者 ``Price``，用来表示成本和现价。
 
@@ -227,7 +233,9 @@ YYYY-MM-DD [txn|Flag] [[Payee] Narration] [tag]
     Assets:ETrade:Cash          1979.00 USD
     Income:ETrade:CapitalGains  -148.30 USD
 
-**平衡交易 Balancing Transactions**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+平衡交易 Balancing Transactions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 然而，复式记账的关键在于会计等式——必须确保每笔交易的过账金额之和为零。那么在有不同通货单位，有成本有价格的情况下又是这么样的呢？
 
@@ -248,7 +256,9 @@ YYYY-MM-DD [txn|Flag] [[Payee] Narration] [tag]
 3. 如果过账只有成本，则成本乘以通货单位数，并使用成本通货，得到该过账的最终金额。
 4. 如果过账既有成本也有现价，则成本乘以通货单位数，并使用成本通货，得到该过账的最终金额。现价在这里被忽略了，但是他会在价格数据库中生成一个条目，之后的盈亏计算就可以看到用处了。
 
-**减少仓位 Reducing Positions**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+减少仓位 Reducing Positions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 按成本持有的通货，即便是同一通货，如果持有的成本不同，也会被 Beancount 视为不同的。也即，未来的交易如果要卖出/减少这些通货（减仓），必须指定成本，明确到底指的是那一批成本的通货。
 
@@ -291,7 +301,9 @@ YYYY-MM-DD [txn|Flag] [[Payee] Narration] [tag]
     option "booking_method" "FIFO"
     ;option "booking_method" "LIFO"
 
-**标签 Tags**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+标签 Tags
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 这个和很多社交平台的哈希标签是类似的，可以设置一个也可以设置多个，当然也可以不要。
 
@@ -305,7 +317,9 @@ YYYY-MM-DD [txn|Flag] [[Payee] Narration] [tag]
     Expenses:Flights              -1230.27 USD
     Liabilities:CreditCard
 
-**链接 Links**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+链接 Links
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 链接可以看成是一种特殊的标签，用于将一组交易链接组合起来，比如将一组与特定发票相关的交易组合在一起。
 

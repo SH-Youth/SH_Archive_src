@@ -21,8 +21,90 @@ TimeLine
 ================================
 
 -------------------------------
+2025 年 07 月
+-------------------------------
+
+.. raw:: html
+
+    <a href="Daily/ToBeancount" class="article-card">
+      <div class="article-card-container">
+        <div class="article-cover">
+          <img src="/_images/DA_3-cover.png" alt="封面">
+        </div>
+        <div class="article-content">
+          <h2 class="article-title">从 hledger 转向 Beancount</h2>
+          <p class="article-preview">
+            书接上回: 记录我开始使用 hledger 记账
+            前略，这里记录一下我从 hledger 转向 Beancount 的过程。...
+          </p>
+          <div class="article-meta">
+            <div class="article-meta-left">
+              <span>
+                <img src="/_static/icon/archive.svg" alt="分类"/>
+                日记残念
+              </span>
+              <span>
+                <img src="/_static/icon/author.svg" alt="作者"/>
+                SH_Youth
+              </span>
+              <span>
+                <img src="/_static/icon/time.svg" alt="时间"/>
+                2026.07.08
+              </span>
+              <span>
+            </div>
+            <span>
+              <img src="/_static/icon/add.svg" alt="创建"/>
+              创建
+            </span>
+          </div>
+        </div>
+      </div>
+    </a>
+
+-------------------------------
 2025 年 06 月
 -------------------------------
+
+.. raw:: html
+
+    <a href="Criticism_Space/One-Sentence/index.html#id2" class="article-card">
+      <div class="article-card-container">
+        <div class="article-cover">
+          <img src="/_images/CS_1-cover.png" alt="封面">
+        </div>
+        <div class="article-content">
+          <h2 class="article-title">一句话评论：少女骑士物语</h2>
+          <p class="article-preview">
+            这个我是先看的动画，动画觉得挺不错的，就把原作游戏也找来玩了。这种感觉就是其他动画比不了的，别的动画看完心动了也就心动了，但游戏改的你是真的可以找到原作操翻动画里只可远观而不可亵玩的女孩子们...
+          </p>
+          <div class="article-meta">
+            <div class="article-meta-left">
+              <span>
+                <img src="/_static/icon/archive.svg" alt="分类"/>
+                批评空间
+              </span>
+              <span>
+                <img src="/_static/icon/author.svg" alt="作者"/>
+                SH_Youth
+              </span>
+              <span>
+                <img src="/_static/icon/time.svg" alt="时间"/>
+                2026.06.25
+              </span>
+              <span>
+                <img src="/_static/icon/vote.svg" alt="评分"/>
+                67
+              </span>
+            </div>
+            <span>
+              <img src="/_static/icon/add.svg" alt="创建"/>
+              创建
+            </span>
+          </div>
+        </div>
+      </div>
+    </a>
 
 .. raw:: html
 
