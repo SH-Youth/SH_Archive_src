@@ -13,3 +13,4 @@
 
    OnePlusRoot/index.rst
    TermuxPlay/index.rst
+   ToBeancount/index.rst
